@@ -1,4 +1,4 @@
-# Carzone - Sell and Browse Featured Cars
+# Carzone - Sell and Browse Featured Cars.
 
 ![](preview.png)
 
